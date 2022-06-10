@@ -1,0 +1,6 @@
+incluir biblioteca estandarE/s en funcion con variable decimal
+repetir desde 0 hasta 5 incremento 2 enunciadoLeer leer flotante en variable
+escribir en pantalla variable decimal
+mientras x > 3 hacer enunciadoLeer leer flotante en variable
+si y < 2 entonces enunciado escribir escribir en pantalla "escribe en pantalla "
+
